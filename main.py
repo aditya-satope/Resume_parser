@@ -8,7 +8,7 @@ from scipy.sparse import csr_matrix
 
 # Load the saved objects from the file
 
-with open('model_and_tfidf1.pkl', 'rb') as file:
+with open('model_and_tfidf (1).pkl', 'rb') as file:
     loaded_objects = pickle.load(file)
 tfidf = loaded_objects['tfidf_vectorizer']
 clf = loaded_objects['model']
