@@ -31,10 +31,17 @@ For instance, consider the sample resume shown below:
 After uploading the resume, the model provides a detailed result, as demonstrated in the screenshot below:
 ![Result Screenshot](https://github.com/aditya-satope/Resume_parser/assets/103871024/96271673-948f-4395-98b5-11f5dbe406a4)
 
-## Get Involved:
-Join us in this exciting project to revolutionize the HR industry through the power of NLP and machine learning. Your contributions and expertise will help make candidate screening more efficient and accurate.
+## What I Learned
 
-Visit our GitHub repository to explore the code and get involved: [Resume Parser GitHub Repository](https://github.com/aditya-satope/Resume_parser)
+During the development of the Resume Parser 1.0 project, I gained valuable knowledge and skills:
+
+1. **Advanced Text Preprocessing Techniques**: I acquired expertise in advanced text preprocessing methods, enabling me to effectively clean and extract pertinent information from unstructured text data. This encompassed handling diverse resume formats and organizing textual content efficiently.
+
+2. **Application of Natural Language Processing (NLP)**: I applied NLP techniques to comprehend and interpret the content within resumes. This involved extracting critical insights, such as skills, experiences, and qualifications, which are pivotal for precise resume classification.
+
+3. **Local Website Hosting**: I successfully designed and hosted a locally created website using Streamlit. This experience empowered me to create an accessible user interface for uploading resumes and engaging with the machine learning model.
+
+These newly acquired skills have not only contributed to the development of this project but have also broadened my expertise in the realms of NLP, machine learning, and web development. I eagerly anticipate further refining these skills and exploring new opportunities in the dynamic fields of technology and data science.
 
 ## Contact:
 For inquiries and collaboration opportunities, please reach out to aditya.satope.mec21@iitbhu.ac.in.
