@@ -6,11 +6,11 @@ The Resume Parser 1.0 is an innovative Python project that harnesses the power o
 ## Key Features:
 
 ### 1. Resume Content Extraction:
-- Utilizes advanced NLP techniques to accurately extract relevant information from resumes.
-- Recognizes and categorizes key sections, including skills, experiences, and qualifications.
+- Utilizes advanced NLP techniques  accurately extract relevant information from resumes.
+- Employs Stemming and Lemmatization for advanced text-preprocessing and TF-IDF for vectorization.
 
 ### 2. Model-Based Classification:
-- Employs machine learning models for precise classification of resumes into predefined job categories.
+- Employs a Gradient Boosting model for precise classification of resumes into predefined job categories.
 - Enhances the accuracy and consistency of the categorization process.
 
 ### 3. User-Friendly Web Interface:
