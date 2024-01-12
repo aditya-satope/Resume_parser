@@ -1,4 +1,4 @@
-# Resume Parser 1.0
+# Resume Classification Using NLP
 
 ## Project Overview:
 The Resume Parser 1.0 is an innovative Python project that harnesses the power of Natural Language Processing (NLP) and machine learning to categorize resumes into specific job types, significantly streamlining HR processes. This project offers a robust solution for automating the classification of resumes, effectively identifying critical content such as skills and experiences, ultimately enhancing the efficiency of candidate screening.
